@@ -8,10 +8,8 @@ Package contains 3DMax file.
 Demo Video : https://www.youtube.com/watch?v=LCU4_quUyaw
 
 Contact :
-- Homepage Link : http://buntgames.com
-- Blog Link : http://hompy.info
+- Homepage Link : http://qatop.com
 - Facebook Link : http://facebook.com/buntgames
-- Email : hompy@buntgames.com
 
 
 [![DEMO VIDEO](http://img.youtube.com/vi/LCU4_quUyaw/0.jpg)](http://www.youtube.com/watch?v=LCU4_quUyaw)
